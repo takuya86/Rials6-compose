@@ -3,3 +3,7 @@
 /tmp/*
 !/tmp/.keep
 docker-compose.override.yml
+
+
+.env
+.DS_Store
